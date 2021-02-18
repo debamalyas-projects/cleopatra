@@ -1,0 +1,2 @@
+# cleopatra
+Wordpress Theme
